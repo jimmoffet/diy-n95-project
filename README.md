@@ -11,3 +11,7 @@ Here's an example of [one viable sourcing option](https://www.samedaysupply.com/
 
 # Cost
 Depending on the breaks, designs made from the above source should net out between 2 and 6 dollars each, without scale.
+
+# Template v1
+![Template](https://raw.githubusercontent.com/jimmoffet/diy-n95-project/master/First_pass_2d_template.png)
+
