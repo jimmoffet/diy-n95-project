@@ -1,5 +1,5 @@
 # DIY N95 Project
-Design, fabrication and sourcing guidelines for masks and slip-covers made with MERV 14 or better materials. This project will initially focus on slip covers that extend the life of common N95 masks without compromising the facial seal provided by the underlying mask.
+Design, fabrication and sourcing guidelines for masks and slip-covers made with MERV 14 or better materials. This project will initially focus on slip covers that extend the life of common N95 masks without compromising the facial seal provided by the underlying mask. Slip covers should be easy to manufacture at home with common tools and consumables (i.e. scissors and gel-based superglue).
 
 # Immediate Needs
 Scanned models or dimensionally accurate drawings of common N95 masks. Note that models uploaded in the [init commit](https://github.com/jimmoffet/diy-n95-project/commit/122e8d2e49c9cc9eac42c34b83cf7c0b3a77745f) are likely not dimensionally-accurate.
